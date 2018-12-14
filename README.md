@@ -1,5 +1,10 @@
 ## React Start
 
+### Design principles
+
+[atomic design](http://bradfrost.com/blog/post/atomic-web-design/)<br/>
+[isomorphic js](https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc)
+
 ### `React Starter Kit`
 
 [React Starter Kit](https://www.reactstarterkit.com) is an opinionated boilerplate for web
@@ -73,3 +78,8 @@ storiesOf('Button', module)
 #### Source
 
 [Storybook for React](https://storybook.js.org/basics/guide-react/)
+
+#### General links
+
+[Should you use React Storybook?](https://spin.atomicobject.com/2018/01/24/react-storybook/)<br/>
+[github repo](https://github.com/storybooks/storybook)

@@ -42,10 +42,8 @@ Create a config file, name it `.storybook/config.js` and fill it:
 ```javascript
 import { configure } from '@storybook/react';
 
-const req = require('../stories/index.js');
-
 function loadStories() {
-  req;
+  require('../stories/index.js');
   // You can require as many stories as you need.
 }
 
